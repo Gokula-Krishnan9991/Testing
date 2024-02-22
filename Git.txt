@@ -1,2 +1,2 @@
-Note this is how you need to work in Git
-Please learn , how to work with the Git
+﻿Note this is how you need to work in Git
+sure, I will make sure to learn the git
