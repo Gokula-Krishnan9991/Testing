@@ -1,2 +1,1 @@
-﻿Note this is how you need to work in Git
-sure, I will make sure to learn the git
+﻿this is the first git text file
